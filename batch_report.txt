@@ -1,0 +1,600 @@
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:07
+Start time: 00:00:07
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:07
+Start time: 00:00:07
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:07
+Start time: 00:00:07
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:07
+Start time: 00:00:07
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:01
+Start time: 00:00:01
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:03
+Start time: 00:00:03
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:03
+Start time: 00:00:03
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: Pilsner (0)
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00:08
+Start time: 00:00:08
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 0
+Amount to produce: 0
+Product type: 0
+Speed: 0
+Accepted: 0
+Defeceted: 0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: SDU
+Batch ID: 12
+Amount produced: 1.0
+Amount to produce: 123.0
+Product type: Pilsner (0)
+Speed: 100.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:00
+Start time: 00:00:00
+-------------------------------------------------------
+Company: odense
+Batch ID: 12
+Amount produced: 30.0
+Amount to produce: 100.0
+Product type: Stout (3)
+Speed: 200.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:09
+Start time: 00:00:09
+-------------------------------------------------------
+Company: 
+Batch ID: 12
+Amount produced: 0.0
+Amount to produce: 0.0
+Product type: 0
+Speed: 0.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: Slagelse
+Batch ID: 12
+Amount produced: 0.0
+Amount to produce: 100.0
+Product type: ALE (4)
+Speed: 600.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:13
+Start time: 00:00:13
+-------------------------------------------------------
+Company: TEST
+Batch ID: 12
+Amount produced: 32.0
+Amount to produce: 500.0
+Product type: Pilsner (0)
+Speed: 600.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:03
+Start time: 00:00:03
+-------------------------------------------------------
+Company: 
+Batch ID: 12
+Amount produced: 32.0
+Amount to produce: 0.0
+Product type: 0
+Speed: 0.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00
+Start time: 00:00
+-------------------------------------------------------
+Company: A
+Batch ID: 12
+Amount produced: 6.0
+Amount to produce: 100.0
+Product type: Pilsner (0)
+Speed: 600.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:00
+Start time: 00:00:00
+-------------------------------------------------------
+Company: A
+Batch ID: 12
+Amount produced: 11.0
+Amount to produce: 1000.0
+Product type: Pilsner (0)
+Speed: 600.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:01
+Start time: 00:00:01
+-------------------------------------------------------
+Company: A
+Batch ID: 12
+Amount produced: 10.0
+Amount to produce: 1000.0
+Product type: Pilsner (0)
+Speed: 600.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:01
+Start time: 00:00:01
+-------------------------------------------------------
+Company: djaw
+Batch ID: 12
+Amount produced: 6.0
+Amount to produce: 1000.0
+Product type: Pilsner (0)
+Speed: 200.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:02
+Start time: 00:00:02
+-------------------------------------------------------
+Company: SDU - T
+Batch ID: 12
+Amount produced: 150.0
+Amount to produce: 150.0
+Product type: Stout (3)
+Speed: 200.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:48
+Start time: 00:00:48
+-------------------------------------------------------
+Company: DTU
+Batch ID: 12
+Amount produced: 0.0
+Amount to produce: 0.0
+Product type: Pilsner (0)
+Speed: 0.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:45
+Start time: 00:00:45
+-------------------------------------------------------
+Company: sdu
+Batch ID: 12
+Amount produced: 0.0
+Amount to produce: 0.0
+Product type: Pilsner (0)
+Speed: 0.0
+Accepted: 0.0
+Defeceted: 0.0
+Idle time: 00:00
+Time on: 00:00:32
+Start time: 00:00:32
+-------------------------------------------------------
